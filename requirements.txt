@@ -1,7 +1,2 @@
 Flask
 gunicorn
-click
-itsdangerous
-Jinja2
-MarkupSafe
-Werkzeug
